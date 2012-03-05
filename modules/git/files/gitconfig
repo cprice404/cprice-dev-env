@@ -1,0 +1,6 @@
+[core]
+        editor = vim
+[user]
+        name = cprice
+[push]
+        default = current
