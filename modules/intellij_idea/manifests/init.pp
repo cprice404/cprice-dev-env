@@ -4,11 +4,14 @@ class intellij_idea {
 
     $idea_install_path = '/opt/software/idea'
 
+    File {
+        owner  => $userinfo::user,
+        group  => $userinfo::group,
+    }
+
     file { 'idea-install-dir':
         path   => $idea_install_path,
         ensure => directory,
-        owner  => $userinfo::user,
-        group  => $userinfo::group,
     }
 
     intellij_idea { 'idea':
@@ -18,4 +21,31 @@ class intellij_idea {
         ensure     => present,
         require    => [ File['idea-install-dir'], Class['oraclejava6'] ],
     }
+
+    file { '~/bin/idea':
+        path   => "$userinfo::home/bin/idea",
+        mode   => "0755",
+        source => 'puppet:///modules/intellij_idea/bin/idea',
+        ensure => file,
+    }
+    
+    intellij_idea_config { 'idea_config':
+    }
+    #file { '~/.IntelliJIdea11':
+    #path    => "$userinfo::home/.IntelliJIdea11",
+    ##mode    => "0644",
+    #source  => 'puppet:///modules/intellij_idea/IntelliJIdea11',
+    #ensure  => directory,
+    #replace => false,
+    #recurse => true,
+    #}
+
+    #notify { "FOOCHONKY!": }
+    #
+    #exec { "check existence of IDEA config dir":
+    ###command => "/bin/echo '$httpd_extras_text' > $httpd_extras_file",
+    #command  => "/bin/echo 'hi.'",
+    #onlyif   => "/usr/bin/test -d $userinfo::home/.IntelliJIdea11",
+    #notify   => Notify["FOOCHONKY!"],
+    #}
 }

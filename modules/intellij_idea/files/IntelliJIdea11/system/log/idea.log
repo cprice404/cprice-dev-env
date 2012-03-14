@@ -1,0 +1,70 @@
+2012-03-13 20:22:23,058 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2012-03-13 20:22:23,068 [     10]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-111.277, 01 Feb 2012 00:00) 
+2012-03-13 20:22:23,068 [     10]   INFO -        #com.intellij.idea.Main - JRE: 1.6.0_31-b04 (Sun Microsystems Inc.) 
+2012-03-13 20:22:23,068 [     10]   INFO -        #com.intellij.idea.Main - JVM: 20.6-b01 (Sun Microsystems Inc.) 
+2012-03-13 20:22:41,282 [  18224]   INFO - llij.ide.plugins.PluginManager - 104 plugins initialized in 5743 ms 
+2012-03-13 20:22:41,282 [  18224]   INFO - llij.ide.plugins.PluginManager - Loaded plugins:IDEA CORE, TFS Integration (1.08.1), Properties Support, UML Support (1.0), Database Support (1.0), I18n for Java, Java Server Pages Integration (1.0), Copyright (8.1), CSS Support, Persistence Frameworks Support (1.0), Java EE Integration (1.0), XPathView + XSLT Support (4), JavaScript Support (1.0), IntelliLang (8.0), Ant Support (1.0), Groovy (9.0), JSF Support (1.1.1.), Struts 1.x (2.0), Spring-AOP and @AspectJ support (1.0), Spring Support (1.0), Hibernate Support (1.0), ZKM-Unscramble (1.0), Playframework Support (1.0), Perforce Integration (2.0), Jetty Integration (1.0), JSR45 Integration (1.0), FreeMarker support (1.0), Velocity support (1.0), Maven Integration, Maven Integration Extension, ASP (0.1), Spring Roo Console (1.0), GWT Support (1.0), Google App Engine Integration (1.1.4), TestNG-J (8.0), JUnit (1.0), Coverage, Emma, Commander (1.0.0), Inspection-JS (2.0), Seam Support (1.0), Seam Pages Support (1.0), CVS Integration (0.1), Grails (9.0), Structural Search (9.0), Spring Web Flow (1.0), Task Management (1.0), Flex Support (1.0), Visual SourceSafe Integration (2.0), HTML Tools (2.0), Struts 2 (1.0), Subversion Integration (1.0), HAML, J2ME (1.0), Spring Data (1.0), JBoss Integration (1.0), Spring Integration (1.0), Spring Web Services (1.0), IDEtalk (1.0), Intention Power Pack (1.0), Tapestry support (1.0), WebLogic Integration (1.0), UI Designer, Spring Security (1.0), GuiceyIDEA (8.0), WebServicesPlugin (0.9 build 5), YAML, W3C Validators (2.0), AspectJ Support (1.1), JavaScript Intention Power Pack (0.9.4), CDI Support (1.0), JarFinder (2), Glassfish Integration (1.0), Spring OSGi (1.0), WebSphere Integration (1.0), Bean Validation Support (1.0), Type Migration, Gradle, Seam Pageflow Support (1.0), LESS support, Osmorc (1.4.0), Resin Integration (8.1), Git Integration (8.1), GitHub, Plugin DevKit (1.0), Tomcat Integration (1.0), Android Support (10.0), hg4idea (10.0), SQL support (1.0), GenerateToString (5.0), Refactor-X (2.01), CoffeeScript (2.0), Inspection Gadgets (1.0), Eclipse Integration (3.0), Geronimo Integration (1.0), QuirksMode, XSLT-Debugger (1.4), ClearCase Integration (2.0), dmServer Support (0.9.5), Remote Hosts Access (0.1), JavaScript Debugger (1.0), CFML Support (3.53), SASS support, DSM Analysis (1.0.0) 
+2012-03-13 20:22:42,304 [  19246]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted 
+2012-03-13 20:22:42,431 [  19373]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: /opt/software/idea/idea-IU-111.277/bin/fsnotifier64 
+2012-03-13 20:22:42,432 [  19374]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2012-03-13 20:22:42,503 [  19445]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/other.xml file is null 
+2012-03-13 20:22:42,504 [  19446]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/other.xml 
+2012-03-13 20:22:42,514 [  19456]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/project.default.xml file is null 
+2012-03-13 20:22:42,514 [  19456]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/project.default.xml 
+2012-03-13 20:22:42,575 [  19517]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/filetypes.xml file is null 
+2012-03-13 20:22:42,575 [  19517]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/filetypes.xml 
+2012-03-13 20:22:42,603 [  19545]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 5), rebuilding... 
+2012-03-13 20:22:42,603 [  19545]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2012-03-13 20:22:42,622 [  19564]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/path.macros.xml file is null 
+2012-03-13 20:22:42,622 [  19564]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/path.macros.xml 
+2012-03-13 20:22:42,623 [  19565]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2012-03-13 20:22:42,624 [  19566]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml 
+2012-03-13 20:22:42,625 [  19567]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/options.xml file is null 
+2012-03-13 20:22:42,625 [  19567]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/options.xml 
+2012-03-13 20:22:42,817 [  19759]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ide.general.xml file is null 
+2012-03-13 20:22:42,817 [  19759]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/ide.general.xml 
+2012-03-13 20:22:42,820 [  19762]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.xml file is null 
+2012-03-13 20:22:42,820 [  19762]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/editor.xml 
+2012-03-13 20:22:42,834 [  19776]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for  
+2012-03-13 20:22:42,902 [  19844]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/colors.scheme.xml file is null 
+2012-03-13 20:22:42,902 [  19844]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/colors.scheme.xml 
+2012-03-13 20:22:42,906 [  19848]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/editor.codeinsight.xml file is null 
+2012-03-13 20:22:42,906 [  19848]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/editor.codeinsight.xml 
+2012-03-13 20:22:42,984 [  19926]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/keymap.xml file is null 
+2012-03-13 20:22:42,984 [  19926]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/keymap.xml 
+2012-03-13 20:22:43,691 [  20633]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/window.manager.xml file is null 
+2012-03-13 20:22:43,691 [  20633]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/window.manager.xml 
+2012-03-13 20:22:43,868 [  20810]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2012-03-13 20:22:44,017 [  20959]   INFO - ellij.project.impl.ProjectImpl - 27 project components initialized in 1331 ms 
+2012-03-13 20:22:44,017 [  20959]   INFO - .module.impl.ModuleManagerImpl - 0 modules loaded in 0 ms 
+2012-03-13 20:22:44,029 [  20971]   INFO - .intellij.ide.XmlRpcServerImpl - XmlRpc server listening at /127.0.0.1:63342 
+2012-03-13 20:22:44,034 [  20976]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/notifications.xml file is null 
+2012-03-13 20:22:44,034 [  20976]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/notifications.xml 
+2012-03-13 20:22:44,037 [  20979]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/usage.statistics.xml file is null 
+2012-03-13 20:22:44,037 [  20979]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/usage.statistics.xml 
+2012-03-13 20:22:44,038 [  20980]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2012-03-13 20:22:44,038 [  20980]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml 
+2012-03-13 20:22:48,877 [  25819]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/stubIndex.xml file is null 
+2012-03-13 20:22:48,877 [  25819]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/stubIndex.xml 
+2012-03-13 20:22:48,887 [  25829]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2012-03-13 20:22:48,887 [  25829]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/macros.xml 
+2012-03-13 20:22:48,899 [  25841]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2012-03-13 20:22:48,899 [  25841]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml 
+2012-03-13 20:22:49,134 [  26076]   INFO - api.vfs.impl.local.FileWatcher - 1 paths checked, 0 mapped, 172 mks 
+2012-03-13 20:22:49,157 [  26099]   INFO - pl.stores.ApplicationStoreImpl - 93 application components initialized in 7777 ms 
+2012-03-13 20:22:49,177 [  26119]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2012-03-13 20:22:49,178 [  26120]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/customization.xml 
+2012-03-13 20:22:49,263 [  26205]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2012-03-13 20:22:49,323 [  26265]   INFO - ij.openapi.wm.impl.IdeRootPane - App initialization took 26674 ms 
+2012-03-13 20:22:52,081 [  29023]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/plugin_ui.xml file is null 
+2012-03-13 20:22:52,081 [  29023]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/plugin_ui.xml 
+2012-03-13 20:23:23,963 [  60905]   INFO - tbrains.android.sdk.AndroidSdk - DDMLib terminated 
+2012-03-13 20:23:24,126 [  61068]   INFO - j.util.indexing.FileBasedIndex - START INDEX SHUTDOWN 
+2012-03-13 20:23:24,465 [  61407]   INFO - j.util.indexing.FileBasedIndex - END INDEX SHUTDOWN 
+2012-03-13 20:23:24,465 [  61407]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2012-03-13 20:23:24,473 [  61415]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2012-03-13 20:23:24,474 [  61416]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2012-03-13 20:23:24,477 [  61419]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2012-03-13 20:23:24,902 [  61844]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2012-03-13 20:23:24,997 [  61939]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2012-03-13 20:23:25,138 [  62080]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
