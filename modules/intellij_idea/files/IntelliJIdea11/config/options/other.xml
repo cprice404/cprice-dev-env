@@ -3,6 +3,9 @@
   <component name="AppserversManager">
     <LibraryTable />
   </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
   <component name="GlobalAntConfiguration">
     <filtersTableLayout />
     <propertiesTableLayout />
@@ -93,6 +96,13 @@
   </component>
   <component name="XSLT-Support.Configuration">
     <option name="SHOW_LINKED_FILES" value="true" />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
 </application>
 

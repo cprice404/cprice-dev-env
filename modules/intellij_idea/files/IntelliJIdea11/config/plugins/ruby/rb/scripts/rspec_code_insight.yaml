@@ -1,0 +1,114 @@
+--- 
+class_types: 
+  RR::DoubleDefinitions::DoubleDefinitionCreatorProxy: RR::DoubleDefinitions::DoubleDefinition
+method_types: 
+  RR: 
+    DoubleDefinitions: 
+      DoubleDefinitionCreator: 
+        do_not_allow: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        stub!: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        mock!: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        stub: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        dont_call: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        dont_allow: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        mock: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        do_not_call: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+    Adapters: 
+      RRMethods: 
+        do_not_allow: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        stub!: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        stub: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        dont_call: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        mock!: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        dont_allow: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        mock: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+        do_not_call: 
+          variants: 
+          - RR::DoubleDefinitions::DoubleDefinitionCreator
+          - RR::DoubleDefinitions::DoubleDefinition
+          - RR::DoubleDefinitions::DoubleDefinitionCreatorProxy
+  Spec: 
+    Mocks: 
+      Methods: 
+        null_object?: Boolean
+        stub!: Spec::Mocks::MessageExpectation
+        should_not_receive: Spec::Mocks::MessageExpectation
+        unstub!: Spec::Mocks::MessageExpectation
+        received_message?: Boolean
+        should_receive: Spec::Mocks::MessageExpectation
+        stub_chain: Spec::Mocks::MessageExpectation
+dynamic_members: 
+  RR: 
+    DoubleDefinitions: 
+      DoubleDefinitionCreator: 
+        instance_methods: stub, stub!, mock, mock!, do_not_allow, do_not_call, dont_allow, dont_call
+    Adapters: 
+      RRMethods: 
+        instance_methods: stub, stub!, mock, mock!, do_not_allow, do_not_call, dont_allow, dont_call
+  Spec: 
+    Matchers: 
+      instance_methods: 
+        be_true: Spec::Matchers.be
+        be_nil: Spec::Matchers.be
+        be_arbitrary_predicate: Spec::Matchers.be
+        be_false: Spec::Matchers.be

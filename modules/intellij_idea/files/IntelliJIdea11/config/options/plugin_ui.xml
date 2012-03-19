@@ -10,10 +10,20 @@
     </option>
     <option name="myInstalledPlugins">
       <value>
-        <list size="0" />
+        <list size="9">
+          <item index="0" class="java.lang.String" itemvalue="com.intellij.aspectj" />
+          <item index="1" class="java.lang.String" itemvalue="GenerateToString" />
+          <item index="2" class="java.lang.String" itemvalue="com.intellij.dmserver" />
+          <item index="3" class="java.lang.String" itemvalue="com.intellij.appengine" />
+          <item index="4" class="java.lang.String" itemvalue="GuiceyIDEA" />
+          <item index="5" class="java.lang.String" itemvalue="Osmorc" />
+          <item index="6" class="java.lang.String" itemvalue="Resin" />
+          <item index="7" class="java.lang.String" itemvalue="XSLT-Debugger" />
+          <item index="8" class="java.lang.String" itemvalue="org.jetbrains.plugins.ruby" />
+        </list>
       </value>
     </option>
-    <available-proportions proportions="" version="1" />
+    <available-proportions proportions="0.5" version="1" />
   </component>
 </application>
 

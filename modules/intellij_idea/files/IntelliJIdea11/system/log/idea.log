@@ -146,3 +146,97 @@
 2012-03-18 18:33:45,954 [  52206]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
 2012-03-18 18:33:46,068 [  52320]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
 2012-03-18 18:33:46,160 [  52412]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2012-03-18 18:47:02,514 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2012-03-18 18:47:02,524 [     10]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-111.277, 01 Feb 2012 00:00) 
+2012-03-18 18:47:02,524 [     10]   INFO -        #com.intellij.idea.Main - JRE: 1.6.0_31-b04 (Sun Microsystems Inc.) 
+2012-03-18 18:47:02,524 [     10]   INFO -        #com.intellij.idea.Main - JVM: 20.6-b01 (Sun Microsystems Inc.) 
+2012-03-18 18:47:04,687 [   2173]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin JBoss resource-bundle: com.intellij.javaee.oss.jboss.JBossBundle 
+2012-03-18 18:47:04,724 [   2210]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin Glassfish resource-bundle: com.intellij.javaee.oss.glassfish.GlassfishBundle 
+2012-03-18 18:47:04,754 [   2240]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin Geronimo resource-bundle: com.intellij.javaee.oss.geronimo.GeronimoBundle 
+2012-03-18 18:47:06,099 [   3585]   INFO - llij.ide.plugins.PluginManager - 104 plugins initialized in 3335 ms 
+2012-03-18 18:47:06,099 [   3585]   INFO - llij.ide.plugins.PluginManager - Loaded plugins:IDEA CORE, Properties Support, UML Support (1.0), Database Support (1.0), I18n for Java, Java Server Pages Integration (1.0), Copyright (8.1), CSS Support, Persistence Frameworks Support (1.0), Java EE Integration (1.0), XPathView + XSLT Support (4), JavaScript Support (1.0), IntelliLang (8.0), Ant Support (1.0), Groovy (9.0), Spring-AOP and @AspectJ support (1.0), Spring Support (1.0), ZKM-Unscramble (1.0), Jetty Integration (1.0), JSR45 Integration (1.0), Maven Integration, Maven Integration Extension, TestNG-J (8.0), JUnit (1.0), Coverage, Emma, Inspection-JS (2.0), Structural Search (9.0), Task Management (1.0), HTML Tools (2.0), HAML, Spring Data (1.0), Spring Integration (1.0), Spring Web Services (1.0), Intention Power Pack (1.0), WebServicesPlugin (0.9 build 5), YAML, W3C Validators (2.0), AspectJ Support (1.1), JavaScript Intention Power Pack (0.9.4), Type Migration, Git Integration (8.1), GitHub, Tomcat Integration (1.0), SQL support (1.0), GenerateToString (5.0), Refactor-X (2.01), Inspection Gadgets (1.0), QuirksMode, XSLT-Debugger (1.4), JavaScript Debugger (1.0), DSM Analysis (1.0.0) 
+2012-03-18 18:47:06,099 [   3585]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: TFS Integration (1.08.1), JSF Support (1.1.1.), Struts 1.x (2.0), Hibernate Support (1.0), Playframework Support (1.0), Perforce Integration (2.0), FreeMarker support (1.0), Velocity support (1.0), ASP (0.1), Spring Roo Console (1.0), GWT Support (1.0), Google App Engine Integration (1.1.4), Commander (1.0.0), Seam Support (1.0), Seam Pages Support (1.0), CVS Integration (0.1), Grails (9.0), Spring Web Flow (1.0), Flex Support (1.0), Visual SourceSafe Integration (2.0), Struts 2 (1.0), Subversion Integration (1.0), J2ME (1.0), JBoss Integration (1.0), IDEtalk (1.0), Tapestry support (1.0), WebLogic Integration (1.0), UI Designer, Spring Security (1.0), GuiceyIDEA (8.0), CDI Support (1.0), JarFinder (2), Glassfish Integration (1.0), Spring OSGi (1.0), WebSphere Integration (1.0), Bean Validation Support (1.0), Gradle, Seam Pageflow Support (1.0), LESS support, Osmorc (1.4.0), Resin Integration (8.1), Plugin DevKit (1.0), Android Support (10.0), hg4idea (10.0), CoffeeScript (2.0), Eclipse Integration (3.0), Geronimo Integration (1.0), ClearCase Integration (2.0), dmServer Support (0.9.5), Remote Hosts Access (0.1), CFML Support (3.53), SASS support 
+2012-03-18 18:47:06,783 [   4269]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: /opt/software/idea/idea-IU-111.277/bin/fsnotifier64 
+2012-03-18 18:47:06,786 [   4272]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2012-03-18 18:47:06,965 [   4451]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2012-03-18 18:47:06,965 [   4451]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml 
+2012-03-18 18:47:07,750 [   5236]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2012-03-18 18:47:07,756 [   5242]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2012-03-18 18:47:07,872 [   5358]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 841 ms 
+2012-03-18 18:47:07,873 [   5359]   INFO - .module.impl.ModuleManagerImpl - 0 modules loaded in 0 ms 
+2012-03-18 18:47:07,884 [   5370]   INFO - .intellij.ide.XmlRpcServerImpl - XmlRpc server listening at /127.0.0.1:63342 
+2012-03-18 18:47:07,900 [   5386]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2012-03-18 18:47:07,900 [   5386]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml 
+2012-03-18 18:47:08,293 [   5779]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2012-03-18 18:47:08,293 [   5779]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/macros.xml 
+2012-03-18 18:47:08,297 [   5783]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2012-03-18 18:47:08,297 [   5783]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml 
+2012-03-18 18:47:08,493 [   5979]   INFO - pl.stores.ApplicationStoreImpl - 85 application components initialized in 2311 ms 
+2012-03-18 18:47:08,513 [   5999]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2012-03-18 18:47:08,513 [   5999]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/customization.xml 
+2012-03-18 18:47:08,589 [   6075]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2012-03-18 18:47:08,717 [   6203]   INFO - ij.openapi.wm.impl.IdeRootPane - App initialization took 6628 ms 
+2012-03-18 18:47:25,333 [  22819]   INFO - api.vfs.impl.local.FileWatcher - 1 paths checked, 0 mapped, 28243 mks 
+2012-03-18 18:47:25,346 [  22832]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/plainTextFiles.xml file is null 
+2012-03-18 18:47:25,346 [  22832]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/plainTextFiles.xml 
+2012-03-18 18:47:26,051 [  23537]   INFO - api.vfs.impl.local.FileWatcher - 0 paths checked, 0 mapped, 2 mks 
+2012-03-18 18:54:02,464 [ 419950]   INFO - j.util.indexing.FileBasedIndex - START INDEX SHUTDOWN 
+2012-03-18 18:54:02,664 [ 420150]   INFO - j.util.indexing.FileBasedIndex - END INDEX SHUTDOWN 
+2012-03-18 18:54:02,664 [ 420150]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2012-03-18 18:54:02,673 [ 420159]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2012-03-18 18:54:02,674 [ 420160]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2012-03-18 18:54:02,678 [ 420164]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2012-03-18 18:54:02,691 [ 420177]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2012-03-18 18:54:02,812 [ 420298]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2012-03-18 18:54:02,915 [ 420401]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2012-03-18 18:54:04,713 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2012-03-18 18:54:04,723 [     10]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-111.277, 01 Feb 2012 00:00) 
+2012-03-18 18:54:04,724 [     11]   INFO -        #com.intellij.idea.Main - JRE: 1.6.0_31-b04 (Sun Microsystems Inc.) 
+2012-03-18 18:54:04,724 [     11]   INFO -        #com.intellij.idea.Main - JVM: 20.6-b01 (Sun Microsystems Inc.) 
+2012-03-18 18:54:07,105 [   2392]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin JBoss resource-bundle: com.intellij.javaee.oss.jboss.JBossBundle 
+2012-03-18 18:54:07,171 [   2458]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin Glassfish resource-bundle: com.intellij.javaee.oss.glassfish.GlassfishBundle 
+2012-03-18 18:54:07,226 [   2513]   INFO - j.ide.plugins.PluginDescriptor - Cannot find plugin Geronimo resource-bundle: com.intellij.javaee.oss.geronimo.GeronimoBundle 
+2012-03-18 18:54:09,466 [   4753]   INFO - llij.ide.plugins.PluginManager - 105 plugins initialized in 4516 ms 
+2012-03-18 18:54:09,467 [   4754]   INFO - llij.ide.plugins.PluginManager - Loaded plugins:IDEA CORE, YAML, Copyright (8.1), CSS Support, Properties Support, Java Server Pages Integration (1.0), UML Support (1.0), Database Support (1.0), Persistence Frameworks Support (1.0), I18n for Java, Java EE Integration (1.0), JUnit (1.0), TestNG-J (8.0), Coverage, JavaScript Support (1.0), JavaScript Debugger (1.0), HAML, Ruby (4.0.20111206), Ant Support (1.0), XPathView + XSLT Support (4), IntelliLang (8.0), Groovy (9.0), Spring-AOP and @AspectJ support (1.0), Spring Support (1.0), ZKM-Unscramble (1.0), Jetty Integration (1.0), JSR45 Integration (1.0), Maven Integration, Maven Integration Extension, Emma, Inspection-JS (2.0), Structural Search (9.0), Task Management (1.0), HTML Tools (2.0), Spring Data (1.0), Spring Integration (1.0), Spring Web Services (1.0), Intention Power Pack (1.0), WebServicesPlugin (0.9 build 5), W3C Validators (2.0), AspectJ Support (1.1), JavaScript Intention Power Pack (0.9.4), Type Migration, Git Integration (8.1), GitHub, Tomcat Integration (1.0), SQL support (1.0), GenerateToString (5.0), Refactor-X (2.01), Inspection Gadgets (1.0), QuirksMode, XSLT-Debugger (1.4), DSM Analysis (1.0.0) 
+2012-03-18 18:54:09,467 [   4754]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: TFS Integration (1.08.1), JSF Support (1.1.1.), Struts 1.x (2.0), Hibernate Support (1.0), Playframework Support (1.0), Perforce Integration (2.0), FreeMarker support (1.0), Velocity support (1.0), ASP (0.1), Spring Roo Console (1.0), GWT Support (1.0), Google App Engine Integration (1.1.4), Commander (1.0.0), Seam Support (1.0), Seam Pages Support (1.0), CVS Integration (0.1), Grails (9.0), Spring Web Flow (1.0), Flex Support (1.0), Visual SourceSafe Integration (2.0), Struts 2 (1.0), Subversion Integration (1.0), J2ME (1.0), JBoss Integration (1.0), IDEtalk (1.0), Tapestry support (1.0), WebLogic Integration (1.0), UI Designer, Spring Security (1.0), GuiceyIDEA (8.0), CDI Support (1.0), JarFinder (2), Glassfish Integration (1.0), Spring OSGi (1.0), WebSphere Integration (1.0), Bean Validation Support (1.0), Gradle, Seam Pageflow Support (1.0), LESS support, Osmorc (1.4.0), Resin Integration (8.1), Plugin DevKit (1.0), Android Support (10.0), hg4idea (10.0), CoffeeScript (2.0), Eclipse Integration (3.0), Geronimo Integration (1.0), ClearCase Integration (2.0), dmServer Support (0.9.5), Remote Hosts Access (0.1), CFML Support (3.53), SASS support 
+2012-03-18 18:54:10,506 [   5793]   INFO - api.vfs.impl.local.FileWatcher - Starting file watcher: /opt/software/idea/idea-IU-111.277/bin/fsnotifier64 
+2012-03-18 18:54:10,510 [   5797]   INFO - api.vfs.impl.local.FileWatcher - Native file watcher is operational. 
+2012-03-18 18:54:10,756 [   6043]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml file is null 
+2012-03-18 18:54:10,756 [   6043]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/ui.lnf.xml 
+2012-03-18 18:54:11,675 [   6962]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2012-03-18 18:54:11,682 [   6969]   INFO -                  TestNG Runner - Create TestNG Template Configuration 
+2012-03-18 18:54:11,801 [   7088]   INFO - ellij.project.impl.ProjectImpl - 23 project components initialized in 964 ms 
+2012-03-18 18:54:11,802 [   7089]   INFO - .module.impl.ModuleManagerImpl - 0 modules loaded in 0 ms 
+2012-03-18 18:54:11,814 [   7101]   INFO - .intellij.ide.XmlRpcServerImpl - XmlRpc server listening at /127.0.0.1:63342 
+2012-03-18 18:54:11,829 [   7116]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml file is null 
+2012-03-18 18:54:11,829 [   7116]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/statistics.application.usages.xml 
+2012-03-18 18:54:11,893 [   7180]   INFO - .FrameworkDetectorRegistryImpl - New framework detectors: [jrails, rails, jruby] 
+2012-03-18 18:54:11,893 [   7180]   INFO - .FrameworkDetectorRegistryImpl - Framework detection index version changed to 1 
+2012-03-18 18:54:11,960 [   7247]   INFO - j.util.indexing.FileBasedIndex - Version has changed for index FrameworkDetectionIndex. The index will be rebuilt. 
+2012-03-18 18:54:12,203 [   7490]   INFO - j.util.indexing.FileBasedIndex - Version has changed for index Stubs. The index will be rebuilt. 
+2012-03-18 18:54:13,896 [   9183]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/macros.xml file is null 
+2012-03-18 18:54:13,896 [   9183]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/macros.xml 
+2012-03-18 18:54:13,903 [   9190]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml file is null 
+2012-03-18 18:54:13,903 [   9190]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/quicklists.xml 
+2012-03-18 18:54:13,992 [   9279]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/gemmanager.xml file is null 
+2012-03-18 18:54:13,992 [   9279]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/gemmanager.xml 
+2012-03-18 18:54:13,996 [   9283]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/jdk.table.xml file is null 
+2012-03-18 18:54:13,996 [   9283]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/jdk.table.xml 
+2012-03-18 18:54:14,141 [   9428]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/debugger.renderers.xml file is null 
+2012-03-18 18:54:14,141 [   9428]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/debugger.renderers.xml 
+2012-03-18 18:54:14,193 [   9480]   INFO - pl.stores.ApplicationStoreImpl - 88 application components initialized in 4614 ms 
+2012-03-18 18:54:14,208 [   9495]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/customization.xml file is null 
+2012-03-18 18:54:14,208 [   9495]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/customization.xml 
+2012-03-18 18:54:14,271 [   9558]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2012-03-18 18:54:14,398 [   9685]   INFO - ij.openapi.wm.impl.IdeRootPane - App initialization took 10177 ms 
+2012-03-18 18:54:29,115 [  24402]   INFO - s.impl.stores.FileBasedStorage - Document was not loaded for $APP_CONFIG$/plainTextFiles.xml file is null 
+2012-03-18 18:54:29,115 [  24402]   INFO - .impl.stores.XmlElementStorage - Document was not loaded for $APP_CONFIG$/plainTextFiles.xml 
+2012-03-18 18:54:29,256 [  24543]   INFO - j.util.indexing.FileBasedIndex - START INDEX SHUTDOWN 
+2012-03-18 18:54:29,602 [  24889]   INFO - j.util.indexing.FileBasedIndex - END INDEX SHUTDOWN 
+2012-03-18 18:54:29,602 [  24889]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2012-03-18 18:54:29,610 [  24897]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2012-03-18 18:54:29,611 [  24898]   INFO - .history.utils.LocalHistoryLog - Purging local history... 
+2012-03-18 18:54:29,616 [  24903]   INFO - .history.utils.LocalHistoryLog - Local history storage successfully closed. 
+2012-03-18 18:54:29,630 [  24917]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2012-03-18 18:54:29,790 [  25077]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2012-03-18 18:54:29,957 [  25244]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 

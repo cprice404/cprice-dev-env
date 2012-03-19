@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
+  <component name="DimensionService">
+    <location key="#Browse_Repositories" x="263" y="39" />
+    <location key="FileChooserDialogImpl" x="463" y="111" />
+    <size key="#Browse_Repositories" width="830" height="682" />
+    <size key="FileChooserDialogImpl" width="430" height="539" />
+  </component>
   <component name="LafManager">
     <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />
   </component>
@@ -7,6 +13,7 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="installation.uid" value="14790957-b7dd-4a75-8df0-07038e27795c" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="PLUGIN_FILTER" value="ruby" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="evlsprt3.7" value="10" />
     <property name="MemberChooser.showClasses" value="true" />

@@ -71,3 +71,13 @@ java.method.name
 java.anonymous.baseref
 java.class.shortname
 java.class.fqn
+Ruby.toplevel.shortName
+Ruby.top.level.include.extend.shortName
+Ruby.class.module.shortName
+Ruby.class_eval.receiver
+Ruby.include.extend.qualified.shortName
+Ruby.symbol.name
+Ruby.method.dynamic.name
+Ruby.method.name
+Ruby.inheritance.shortName
+Ruby.require.load.shortName
