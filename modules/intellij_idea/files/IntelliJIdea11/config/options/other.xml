@@ -42,11 +42,19 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1331695372076" />
+    <option name="LAST_TIME_CHECKED" value="1332120351394" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="WebServicesPluginSettings" WebServicesUrlPathPrefix="/services" PathToXmlBeans="$USER_HOME$/.IntelliJIdea11/system/webservices/xmlbeans-2.3.0" RestClientHost="http://localhost:9998" ASK_TO_INSTALL_SOAPUI="true">
-    <Libs />
+    <Libs>
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xmlbeans-qname.jar.pack.gz" size="1173" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean_xpath.jar.pack.gz" size="2430" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xmlpublic.jar.pack.gz" size="89723" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/xbean.jar.pack.gz" size="639476" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/docs/axis1_4/documentation.jar.pack.gz" size="615245" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/jsr173_1.0_api.jar.pack.gz" size="5348" />
+      <Lib path="$APPLICATION_HOME_DIR$/plugins/WebServices/lib/xmlbeans-2.3.0/resolver.jar.pack.gz" size="21195" />
+    </Libs>
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />

@@ -19,14 +19,11 @@
         <option value="JS.class.implements" />
         <option value="js.members.shortName" />
         <option value="js.element.qualifiedName" />
-        <option value="cfml.component.shortName" />
         <option value="sql.names" />
         <option value="sql.column.name" />
         <option value="sql.table.shortName" />
         <option value="gr.script.fqn" />
         <option value="gr.class.fqn" />
-        <option value="cfml.interface.shortName" />
-        <option value="cfml.inheritors.shortName" />
         <option value="gr.annot.members" />
         <option value="gr.annot.method.name" />
         <option value="gr.method.name" />

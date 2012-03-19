@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Indexing" shouldLog="false" />
     <notification groupId="IDE Fatal Errors" displayType="NONE" />
     <notification groupId="Groovy DSL errors" />
   </component>
